@@ -31,4 +31,11 @@
 		</dependency>
 	</dependencies>
 	
+	<repositories>
+		<repository>
+			<id>componentes-repo</id>
+			<url>https://github.com/davi91/Componentes/tree/master/repository</url>
+		</repository>
+	</repositories>
+	
 </project>
