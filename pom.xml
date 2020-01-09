@@ -34,7 +34,7 @@
 	<repositories>
 		<repository>
 			<id>componentes-repo</id>
-			<url>https://github.com/davi91/Componentes/tree/master/repository</url>
+			<url>https://github.com/davi91/Componentes/raw/master/repository</url>
 		</repository>
 	</repositories>
 	
